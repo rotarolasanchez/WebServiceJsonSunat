@@ -1,0 +1,77 @@
+D:\Private_EU\Examples\SolucionEjemplos\PRUEBA\bin\Debug\PRUEBA.exe.config
+D:\Private_EU\Examples\SolucionEjemplos\PRUEBA\bin\Debug\PRUEBA.exe
+D:\Private_EU\Examples\SolucionEjemplos\PRUEBA\bin\Debug\PRUEBA.pdb
+D:\Private_EU\Examples\SolucionEjemplos\PRUEBA\bin\Debug\tessnet2_32.dll
+D:\Private_EU\Examples\SolucionEjemplos\PRUEBA\obj\Debug\PRUEBA.csprojResolveAssemblyReference.cache
+D:\Private_EU\Examples\SolucionEjemplos\PRUEBA\obj\Debug\PRUEBA.SUNAT.resources
+D:\Private_EU\Examples\SolucionEjemplos\PRUEBA\obj\Debug\PRUEBA.Properties.Resources.resources
+D:\Private_EU\Examples\SolucionEjemplos\PRUEBA\obj\Debug\PRUEBA.csproj.GenerateResource.Cache
+D:\Private_EU\Examples\SolucionEjemplos\PRUEBA\obj\Debug\PRUEBA.exe
+D:\Private_EU\Examples\SolucionEjemplos\PRUEBA\obj\Debug\PRUEBA.pdb
+D:\Private_EU\Examples\SolucionEjemplos\PRUEBA\obj\Debug\PRUEBA.frmSunatMultiple.resources
+D:\Mis Tutoriales\Conexion SUNAT\SolucionEjemplos\PRUEBA\bin\Debug\PRUEBA.exe.config
+D:\Mis Tutoriales\Conexion SUNAT\SolucionEjemplos\PRUEBA\obj\Debug\PRUEBA.exe
+D:\Mis Tutoriales\Conexion SUNAT\SolucionEjemplos\PRUEBA\obj\Debug\PRUEBA.pdb
+D:\Mis Tutoriales\Conexion SUNAT\SolucionEjemplos\PRUEBA\bin\Debug\PRUEBA.exe
+D:\Mis Tutoriales\Conexion SUNAT\SolucionEjemplos\PRUEBA\bin\Debug\PRUEBA.pdb
+D:\Mis Tutoriales\Conexion SUNAT\SolucionEjemplos\PRUEBA\bin\Debug\tessnet2_32.dll
+D:\Mis Tutoriales\Conexion SUNAT\SolucionEjemplos\PRUEBA\obj\Debug\PRUEBA.csprojResolveAssemblyReference.cache
+D:\Mis Tutoriales\Conexion SUNAT\SolucionEjemplos\PRUEBA\obj\Debug\PRUEBA.SUNAT.resources
+D:\Mis Tutoriales\Conexion SUNAT\SolucionEjemplos\PRUEBA\obj\Debug\PRUEBA.frmSunatMultiple.resources
+D:\Mis Tutoriales\Conexion SUNAT\SolucionEjemplos\PRUEBA\obj\Debug\PRUEBA.Properties.Resources.resources
+D:\Mis Tutoriales\Conexion SUNAT\SolucionEjemplos\PRUEBA\obj\Debug\PRUEBA.csproj.GenerateResource.Cache
+C:\Users\fpoma\Downloads\SUNAT\SUNAT\PRUEBA\bin\Debug\PRUEBA.exe.config
+C:\Users\fpoma\Downloads\SUNAT\SUNAT\PRUEBA\obj\Debug\PRUEBA.exe
+C:\Users\fpoma\Downloads\SUNAT\SUNAT\PRUEBA\obj\Debug\PRUEBA.pdb
+C:\Users\fpoma\Downloads\SUNAT\SUNAT\PRUEBA\bin\Debug\PRUEBA.exe
+C:\Users\fpoma\Downloads\SUNAT\SUNAT\PRUEBA\bin\Debug\PRUEBA.pdb
+C:\Users\fpoma\Downloads\SUNAT\SUNAT\PRUEBA\bin\Debug\System.Net.Http.dll
+C:\Users\fpoma\Downloads\SUNAT\SUNAT\PRUEBA\bin\Debug\tessnet2_32.dll
+C:\Users\fpoma\Downloads\SUNAT\SUNAT\PRUEBA\bin\Debug\System.Net.Http.xml
+C:\Users\fpoma\Downloads\SUNAT\SUNAT\PRUEBA\bin\Debug\es\System.Net.Http.resources.dll
+C:\Users\fpoma\Downloads\SUNAT\SUNAT\PRUEBA\obj\Debug\PRUEBA.SUNAT.resources
+C:\Users\fpoma\Downloads\SUNAT\SUNAT\PRUEBA\obj\Debug\PRUEBA.frmSunatMultiple.resources
+C:\Users\fpoma\Downloads\SUNAT\SUNAT\PRUEBA\obj\Debug\PRUEBA.Properties.Resources.resources
+C:\Users\fpoma\Downloads\SUNAT\SUNAT\PRUEBA\obj\Debug\PRUEBA.csproj.GenerateResource.Cache
+D:\SUNAT\PRUEBA\bin\Debug\PRUEBA.exe.config
+D:\SUNAT\PRUEBA\obj\Debug\PRUEBA.exe
+D:\SUNAT\PRUEBA\obj\Debug\PRUEBA.pdb
+D:\SUNAT\PRUEBA\bin\Debug\PRUEBA.exe
+D:\SUNAT\PRUEBA\bin\Debug\PRUEBA.pdb
+D:\SUNAT\PRUEBA\bin\Debug\System.Net.Http.dll
+D:\SUNAT\PRUEBA\bin\Debug\tessnet2_32.dll
+D:\SUNAT\PRUEBA\bin\Debug\System.Net.Http.xml
+D:\SUNAT\PRUEBA\bin\Debug\es\System.Net.Http.resources.dll
+D:\SUNAT\PRUEBA\obj\Debug\PRUEBA.csprojResolveAssemblyReference.cache
+D:\SUNAT\PRUEBA\obj\Debug\PRUEBA.SUNAT.resources
+D:\SUNAT\PRUEBA\obj\Debug\PRUEBA.frmSunatMultiple.resources
+D:\SUNAT\PRUEBA\obj\Debug\PRUEBA.Properties.Resources.resources
+D:\SUNAT\PRUEBA\obj\Debug\PRUEBA.csproj.GenerateResource.Cache
+C:\Users\rotarola\Desktop\SUNAT\SUNAT\PRUEBA\bin\Debug\PRUEBA.exe.config
+C:\Users\rotarola\Desktop\SUNAT\SUNAT\PRUEBA\bin\Debug\PRUEBA.exe
+C:\Users\rotarola\Desktop\SUNAT\SUNAT\PRUEBA\bin\Debug\PRUEBA.pdb
+C:\Users\rotarola\Desktop\SUNAT\SUNAT\PRUEBA\bin\Debug\tessnet2_32.dll
+C:\Users\rotarola\Desktop\SUNAT\SUNAT\PRUEBA\obj\Debug\PRUEBA.SUNAT.resources
+C:\Users\rotarola\Desktop\SUNAT\SUNAT\PRUEBA\obj\Debug\PRUEBA.frmSunatMultiple.resources
+C:\Users\rotarola\Desktop\SUNAT\SUNAT\PRUEBA\obj\Debug\PRUEBA.Properties.Resources.resources
+C:\Users\rotarola\Desktop\SUNAT\SUNAT\PRUEBA\obj\Debug\PRUEBA.csproj.GenerateResource.Cache
+C:\Users\rotarola\Desktop\SUNAT\SUNAT\PRUEBA\obj\Debug\PRUEBA.csproj.CoreCompileInputs.cache
+C:\Users\rotarola\Desktop\SUNAT\SUNAT\PRUEBA\obj\Debug\PRUEBA.exe
+C:\Users\rotarola\Desktop\SUNAT\SUNAT\PRUEBA\obj\Debug\PRUEBA.pdb
+C:\Users\rotarola\Desktop\SUNAT\SUNAT\PRUEBA\obj\Debug\PRUEBA.csprojResolveAssemblyReference.cache
+C:\Users\rotarola\Desktop\SUNAT\SUNAT\PRUEBA\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rotarola\Desktop\SUNAT\SUNAT\PRUEBA\obj\Debug\PRUEBA.Form1.resources
+C:\Users\rotarola\Desktop\LIBRERIAS\SUNAT\SUNAT\PRUEBA\obj\Debug\PRUEBA.csprojResolveAssemblyReference.cache
+C:\Users\rotarola\Desktop\LIBRERIAS\SUNAT\SUNAT\PRUEBA\obj\Debug\PRUEBA.Form1.resources
+C:\Users\rotarola\Desktop\LIBRERIAS\SUNAT\SUNAT\PRUEBA\obj\Debug\PRUEBA.SUNAT.resources
+C:\Users\rotarola\Desktop\LIBRERIAS\SUNAT\SUNAT\PRUEBA\obj\Debug\PRUEBA.frmSunatMultiple.resources
+C:\Users\rotarola\Desktop\LIBRERIAS\SUNAT\SUNAT\PRUEBA\obj\Debug\PRUEBA.Properties.Resources.resources
+C:\Users\rotarola\Desktop\LIBRERIAS\SUNAT\SUNAT\PRUEBA\obj\Debug\PRUEBA.csproj.GenerateResource.Cache
+C:\Users\rotarola\Desktop\LIBRERIAS\SUNAT\SUNAT\PRUEBA\obj\Debug\PRUEBA.csproj.CoreCompileInputs.cache
+C:\Users\rotarola\Desktop\LIBRERIAS\SUNAT\SUNAT\PRUEBA\obj\Debug\PRUEBA.exe
+C:\Users\rotarola\Desktop\LIBRERIAS\SUNAT\SUNAT\PRUEBA\obj\Debug\PRUEBA.pdb
+C:\Users\rotarola\Desktop\LIBRERIAS\SUNAT\SUNAT\PRUEBA\bin\Debug\PRUEBA.exe.config
+C:\Users\rotarola\Desktop\LIBRERIAS\SUNAT\SUNAT\PRUEBA\bin\Debug\PRUEBA.exe
+C:\Users\rotarola\Desktop\LIBRERIAS\SUNAT\SUNAT\PRUEBA\bin\Debug\PRUEBA.pdb
+C:\Users\rotarola\Desktop\LIBRERIAS\SUNAT\SUNAT\PRUEBA\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rotarola\Desktop\LIBRERIAS\SUNAT\SUNAT\PRUEBA\bin\Debug\tessnet2_32.dll
